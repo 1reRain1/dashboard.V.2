@@ -1,0 +1,1 @@
+<?php require '/app/public/views/index.php' ?>

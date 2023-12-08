@@ -1,0 +1,5 @@
+1 - every dish's ingeridians 
+2 - how does the dish cost
+3 - how much do u sell 
+4 - how much do u sell in a day
+5 - forms
